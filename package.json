@@ -1,0 +1,13 @@
+{
+  "name": "website-2",
+  "version": "1.0.0",
+  "description": "responsive-portfolio",
+  "main": "script.js",
+  "homepage": "https://adityansh.github.io/responsive-portfolio-website/",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy":"gh-pages -d dist"
+  },
+  "author": "\"Adityansh Sharma\"",
+  "license": "MIT"
+}
