@@ -157,7 +157,7 @@ a{
 }
 
 .ico>a{
-    padding: 1.1rem;
+    padding: 0.5rem;
     color: white;
 }
 
@@ -206,9 +206,4 @@ a{
     .papu{
         margin-top: 37rem;
     }
-    
-    .ico>a{
-    padding: 0.5rem;
-    color: white;
-}
 }
